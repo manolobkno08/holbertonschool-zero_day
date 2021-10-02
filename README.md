@@ -2,4 +2,8 @@
 
 # Zero Day
 > This repository contains my first project as a Holberton School student.
-> - Git / Github
+- Git / Github
+
+# Authors
+
+> **Manuel Alejandro Gomez**
